@@ -18,13 +18,13 @@ Um site para o realizamento de cadastro de produtos em uma lista.
 
 ## 🎨 Imagens do projeto
 
- > Página de Cadastro do Usuario
+ > Página Inicial
 ![GK1](https://github.com/LucSena/Lista-de-Produtos-JSON/blob/main/ImagensGIT/Imagens%20(1).png)
 
-> Página de Login do Usuario
+> Quando o usuario tenta cadastrar porém não adiciona nada
 ![GK1](https://github.com/LucSena/Lista-de-Produtos-JSON/blob/main/ImagensGIT/Imagens%20(3).png)
 
-> Página Inicial do Administrador.
+> Tela quando itens são cadastrados
 ![GK1](https://github.com/LucSena/Lista-de-Produtos-JSON/blob/main/ImagensGIT/Imagens%20(2).png)
 
  
