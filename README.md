@@ -92,7 +92,6 @@ Um site para o realizamento de cadastro de produtos em uma lista.
 1. Realize a instalação desse repositorio.
 2. Concluido isso, é só abrir o arquivo "index.html" em seu navegador de preferencia.
 
-
 * Um apontamento necessario é que todos arquivos cadastrados não são salvos em um banco de dados e sim localstorage, ou seja, se o seu navegador não
   salva o cache(OPERA, BRAVE, EDGE SALVAM), assim que recarregar a pagina, tudo ira ser excluido.
   
@@ -100,7 +99,7 @@ Um site para o realizamento de cadastro de produtos em uma lista.
 
 ## 📝 Objetivo
 
-Este projeto foi desenvolvido para uma avaliação e competição tecnica do curso técnico de Desenvolvimento de Sistemas do Senai MT sobre criação de sistemas reais.
-Ministradas pelo Professor Fabio Eduardo Faria e Augusto de Oliveira.
+Este projeto foi desenvolvido durante uma atividade do curso técnico de Desenvolvimento de Sistemas do Senai MT sobre Javascript e a utilização de JSON.
+Ministradas pelo professor Augusto de Oliveira.
 
 Feito por Lucas de Sena👋🏽 [Entre em contato!](https://www.linkedin.com/in/lucas-de-sena/)
