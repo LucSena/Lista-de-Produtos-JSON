@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o projeto
 
-Um site para o realizamento de cadastro de produtos em uma lista.
+Um site para o realizamento de cadastro de produtos em uma lista, utilizando JSON, um sistema simples.
 
 ---
 
