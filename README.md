@@ -19,7 +19,7 @@ Um site para o realizamento de cadastro de produtos em uma lista.
 ## 🎨 Imagens do projeto
 
 
-> Página de Cadastro do Usuario
+<!-- > Página de Cadastro do Usuario
 ![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(1).png)
 
 > Página de Login do Usuario
@@ -61,7 +61,7 @@ Um site para o realizamento de cadastro de produtos em uma lista.
 > Página de visualização de usuarios(Administrador).
 ![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(14).png)
 
-
+ -->
 ---
 
 ### **Ambiente de desenvolvimento**
@@ -73,11 +73,8 @@ Um site para o realizamento de cadastro de produtos em uma lista.
 ### **👨🏾‍💻 Linguagens utilizadas**
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![JSON](https://img.shields.io/badge/-Json-0D1117?style=for-the-badge&logo=json&logoColor=purple&labelColor=0D1117)&nbsp;
 ---
 
 ## 🕸 Organização do Projeto
@@ -92,21 +89,12 @@ Um site para o realizamento de cadastro de produtos em uma lista.
 
 ## ✍🏾 Como Utilizar
 
-* Recomendo a utilização do XAMPP como Localhost(Porém fica a sua escolha).
+1. Realize a instalação desse repositorio.
+2. Concluido isso, é só abrir o arquivo "index.html" em seu navegador de preferencia.
 
-1. Após instalar todos os arquivos, será necessario importar o arquivo SQL para o seu localhost (no meu caso, PHPMYADMIN).
-2. Concluido isso, coloque a pasta do projeto dentro do seu htdocs(ou equivalente a pasta onde armazena seus projetos).
-3. Feito tudo isso, você já poderá utilizar, quando entrar no site faça login com o usuario desejavel.
-4. Ao realizar um novo cadastro no sistema, será necessario a validação do novo usuario pelo Administrador.
 
-Admin:
-* Email: adm@gmail.com
-* Senha: 123
-
-Usuario:
-* Email: Usuario@gmail.com
-* Senha: 123
-  
+* Um apontamento necessario é que todos arquivos cadastrados não são salvos em um banco de dados e sim localstorage, ou seja, se o seu navegador não
+  salva o cache(OPERA, BRAVE, EDGE SALVAM), assim que recarregar a pagina, tudo ira ser excluido.
   
 ---
 
