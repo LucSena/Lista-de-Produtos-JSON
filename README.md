@@ -18,9 +18,8 @@ Um site para o realizamento de cadastro de produtos em uma lista.
 
 ## 🎨 Imagens do projeto
 
-
-<!-- > Página de Cadastro do Usuario
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(1).png)
+ > Página de Cadastro do Usuario
+![GK1](https://github.com/LucSena/Lista-de-Produtos-JSON/blob/main/ImagensGIT/Imagens%20(1).png)
 
 > Página de Login do Usuario
 ![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(2).png)
@@ -28,40 +27,7 @@ Um site para o realizamento de cadastro de produtos em uma lista.
 > Página Inicial do Administrador.
 ![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(3).png)
 
-> Página Inicial do Usuario.
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(4).png)
-
-> Perfil do Administrador.
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(5).png)
-
-> Perfil do Usuario.
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(6).png)
-
-> Modal de Agendamento.
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(7).png)
-
-> Informações da Sala.
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(8).png)
-
-> Modal de Editar a Sala(Administrador).
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(9).png)
-
-> Função de Adicionar um Andar(Administrador).
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(10).png)
-
-> Função de Adicionar um Bloco(Administrador).
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(11).png)
-
-> Função de Adicionar uma Sala(Administrador).
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(12).png)
-
-> Página de validação de usuarios(Administrador).
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(13).png)
-
-> Página de visualização de usuarios(Administrador).
-![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(14).png)
-
- -->
+ 
 ---
 
 ### **Ambiente de desenvolvimento**
